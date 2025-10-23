@@ -1,4 +1,4 @@
-# Resumen completo — Scrum Guide 2020
+# Scrum Guide 2020
 
 ## Propósito
 El **Scrum Guide** define Scrum, un marco de trabajo ligero para generar valor mediante soluciones adaptativas a problemas complejos. Cada elemento del marco tiene un propósito; cambiarlos o omitir reglas reduce sus beneficios. Scrum nació en desarrollo de software pero se aplica en muchos dominios.
@@ -143,5 +143,6 @@ Cada artefacto tiene un **compromiso** para aumentar la transparencia.
 - Artefactos clave: **Product Backlog**, **Sprint Backlog**, **Increment**, con compromisos asociados (**Product Goal**, **Sprint Goal**, **DoD**).
 
 ---
+
 
 
